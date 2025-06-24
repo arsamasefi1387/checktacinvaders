@@ -1,5 +1,5 @@
 # Welcome to The Greatest Set of Games of All time
-Our team, Arsam Asefi have put a lot of effort into
+Our team, Arsam Asefi and Armin Hajiahmadi have put a lot of effort into
 this so please enjoy and share the game. This is our 
 final project for grade 12 Computer Science course.
 Credits to Ms. Su, our teacher for helping us. 
